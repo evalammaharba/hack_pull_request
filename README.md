@@ -1,12 +1,12 @@
 # hack_pull_request
 
-💀💀 ALFA 💀💀
+💀 ALFA 💀
 https://github.com/evalammaharba/hg_1_alfa.git
 
-🐱‍🐉🌌 BRAVO 🐱‍🐉🌌
+🌌 BRAVO 🐱‍🐉
 https://github.com/evalammaharba/-hg_1_bravo.git
 
-👾👾CHARLIE👾👾
+👾CHARLIE👾
 https://github.com/evalammaharba/-hg_1_charlie-.git
 
 🔥DELTA🔥
